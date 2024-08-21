@@ -1,0 +1,185 @@
+{
+    "reviews": [
+      {
+        "professor": "Prof1",
+        "review": "Great professor who explains concepts clearly.",
+        "subject": "Math",
+        "stars": 5
+      },
+      {
+        "professor": "Prof2",
+        "review": "Very knowledgeable, but lectures are a bit fast-paced.",
+        "subject": "Physics",
+        "stars": 4
+      },
+      {
+        "professor": "Prof3",
+        "review": "Engaging lectures with lots of practical examples.",
+        "subject": "Computer Science",
+        "stars": 5
+      },
+      {
+        "professor": "Prof4",
+        "review": "Assignments were tough but fair. Learned a lot.",
+        "subject": "Chemistry",
+        "stars": 4
+      },
+      {
+        "professor": "Prof5",
+        "review": "Tends to go off-topic, making it hard to follow.",
+        "subject": "History",
+        "stars": 3
+      },
+      {
+        "professor": "Prof6",
+        "review": "Always available for extra help outside of class.",
+        "subject": "Biology",
+        "stars": 5
+      },
+      {
+        "professor": "Prof7",
+        "review": "Course material is outdated, and lectures are boring.",
+        "subject": "Economics",
+        "stars": 2
+      },
+      {
+        "professor": "Prof8",
+        "review": "Interesting class with a lot of group work.",
+        "subject": "Sociology",
+        "stars": 4
+      },
+      {
+        "professor": "Prof9",
+        "review": "Very strict grading, but you learn a lot if you keep up.",
+        "subject": "Engineering",
+        "stars": 4
+      },
+      {
+        "professor": "Prof10",
+        "review": "Lectures were too theoretical with little practical application.",
+        "subject": "Philosophy",
+        "stars": 3
+      },
+      {
+        "professor": "Prof11",
+        "review": "Amazing teacher who cares about student success.",
+        "subject": "Psychology",
+        "stars": 5
+      },
+      {
+        "professor": "Prof12",
+        "review": "Difficult exams but clear explanations in class.",
+        "subject": "Statistics",
+        "stars": 4
+      },
+      {
+        "professor": "Prof13",
+        "review": "Engaging and insightful, makes complex topics simple.",
+        "subject": "Literature",
+        "stars": 5
+      },
+      {
+        "professor": "Prof14",
+        "review": "Class participation is a must, but it's worth it.",
+        "subject": "Political Science",
+        "stars": 4
+      },
+      {
+        "professor": "Prof15",
+        "review": "Sometimes hard to understand due to accent.",
+        "subject": "Physics",
+        "stars": 3
+      },
+      {
+        "professor": "Prof16",
+        "review": "Challenging course with lots of projects.",
+        "subject": "Computer Science",
+        "stars": 4
+      },
+      {
+        "professor": "Prof17",
+        "review": "Very friendly and approachable, makes class enjoyable.",
+        "subject": "Art History",
+        "stars": 5
+      },
+      {
+        "professor": "Prof18",
+        "review": "Lectures are dry and monotonous.",
+        "subject": "Law",
+        "stars": 2
+      },
+      {
+        "professor": "Prof19",
+        "review": "Gives plenty of resources but expects a lot of self-study.",
+        "subject": "Mathematics",
+        "stars": 4
+      },
+      {
+        "professor": "Prof20",
+        "review": "Great at explaining difficult concepts with patience.",
+        "subject": "Biochemistry",
+        "stars": 5
+      },
+      {
+        "professor": "Prof21",
+        "review": "Lots of group discussions, but not much lecture.",
+        "subject": "Education",
+        "stars": 3
+      },
+      {
+        "professor": "Prof22",
+        "review": "Keeps the class engaged with interactive sessions.",
+        "subject": "Environmental Science",
+        "stars": 5
+      },
+      {
+        "professor": "Prof23",
+        "review": "Hard grader but really cares about students learning.",
+        "subject": "Philosophy",
+        "stars": 4
+      },
+      {
+        "professor": "Prof24",
+        "review": "Course was too fast-paced for most students.",
+        "subject": "Engineering",
+        "stars": 3
+      },
+      {
+        "professor": "Prof25",
+        "review": "Very detailed and knowledgeable but expects a lot.",
+        "subject": "Medicine",
+        "stars": 4
+      },
+      {
+        "professor": "Prof26",
+        "review": "Helpful feedback on assignments, learned a lot.",
+        "subject": "English",
+        "stars": 5
+      },
+      {
+        "professor": "Prof27",
+        "review": "Lectures are interesting but tests are very difficult.",
+        "subject": "Chemistry",
+        "stars": 3
+      },
+      {
+        "professor": "Prof28",
+        "review": "Always willing to help students after class.",
+        "subject": "Sociology",
+        "stars": 5
+      },
+      {
+        "professor": "Prof29",
+        "review": "Course is very theoretical, not much practical work.",
+        "subject": "Physics",
+        "stars": 3
+      },
+      {
+        "professor": "Prof30",
+        "review": "Engages students with real-world examples.",
+        "subject": "Business",
+        "stars": 4
+      }
+    ]
+  }
+  
