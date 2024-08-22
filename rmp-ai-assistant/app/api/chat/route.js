@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server'
 import { Pinecone } from '@pinecone-database/pinecone'
-import * as genai from 'google.generativeai'
+import { GoogleGenerativeAI } from "@google/generative-ai";
 
 // Step 2: Define the system prompt
 const systemPrompt = `
@@ -20,7 +20,7 @@ export async function POST(req) {
   const index = pc.index('rag').namespace('ns1')
 
   // Initialize Google Gemini
-  genai.configure({ apiKey: process.env.GOOGLE_GENERATIVE_AI_API_KEY })
+  const genai = new GoogleGenerativeAI(process.env.GOOGLE_GENERATIVE_AI_API_KEY);
 
   // Step 5: Process the user’s query
   const text = data[data.length - 1].content
