@@ -1,133 +1,133 @@
 {
     "reviews": [
       {
-        "professor": "Prof1",
+        "professor": "Dr. David Carter",
         "review": "Great professor who explains concepts clearly.",
         "subject": "Math",
         "stars": 5
       },
       {
-        "professor": "Prof2",
+        "professor": "Professor Emily Miller",
         "review": "Very knowledgeable, but lectures are a bit fast-paced.",
         "subject": "Physics",
         "stars": 4
       },
       {
-        "professor": "Prof3",
+        "professor": "Dr. Benjamin Lee",
         "review": "Engaging lectures with lots of practical examples.",
         "subject": "Computer Science",
         "stars": 5
       },
       {
-        "professor": "Prof4",
+        "professor": "Professor Sarah Johnson",
         "review": "Assignments were tough but fair. Learned a lot.",
         "subject": "Chemistry",
         "stars": 4
       },
       {
-        "professor": "Prof5",
+        "professor": "Dr. Michael Brown",
         "review": "Tends to go off-topic, making it hard to follow.",
         "subject": "History",
         "stars": 3
       },
       {
-        "professor": "Prof6",
+        "professor": "Professor Jennifer Davis",
         "review": "Always available for extra help outside of class.",
         "subject": "Biology",
         "stars": 5
       },
       {
-        "professor": "Prof7",
+        "professor": "Dr. Anya Petrova",
         "review": "Course material is outdated, and lectures are boring.",
         "subject": "Economics",
         "stars": 2
       },
       {
-        "professor": "Prof8",
+        "professor": "Professor Kai Nakamura",
         "review": "Interesting class with a lot of group work.",
         "subject": "Sociology",
         "stars": 4
       },
       {
-        "professor": "Prof9",
+        "professor": "Dr. Elara Singh",
         "review": "Very strict grading, but you learn a lot if you keep up.",
         "subject": "Engineering",
         "stars": 4
       },
       {
-        "professor": "Prof10",
+        "professor": "Professor Finn O'Malley",
         "review": "Lectures were too theoretical with little practical application.",
         "subject": "Philosophy",
         "stars": 3
       },
       {
-        "professor": "Prof11",
+        "professor": "Dr. Zephyr Skywalker",
         "review": "Amazing teacher who cares about student success.",
         "subject": "Psychology",
         "stars": 5
       },
       {
-        "professor": "Prof12",
+        "professor": "Professor Aurora Borealis",
         "review": "Difficult exams but clear explanations in class.",
         "subject": "Statistics",
         "stars": 4
       },
       {
-        "professor": "Prof13",
+        "professor": "Dr. Zara Khan",
         "review": "Engaging and insightful, makes complex topics simple.",
         "subject": "Literature",
         "stars": 5
       },
       {
-        "professor": "Prof14",
+        "professor": "Professor Leo Ramirez",
         "review": "Class participation is a must, but it's worth it.",
         "subject": "Political Science",
         "stars": 4
       },
       {
-        "professor": "Prof15",
+        "professor": "Dr. Orion Nebula",
         "review": "Sometimes hard to understand due to accent.",
         "subject": "Physics",
         "stars": 3
       },
       {
-        "professor": "Prof16",
+        "professor": "Professor Nova Starbright",
         "review": "Challenging course with lots of projects.",
         "subject": "Computer Science",
         "stars": 4
       },
       {
-        "professor": "Prof17",
+        "professor": "Dr. Quantum Leap",
         "review": "Very friendly and approachable, makes class enjoyable.",
         "subject": "Art History",
         "stars": 5
       },
       {
-        "professor": "Prof18",
+        "professor": "Professor Helix Spiral",
         "review": "Lectures are dry and monotonous.",
         "subject": "Law",
         "stars": 2
       },
       {
-        "professor": "Prof19",
+        "professor": "Dr. Chen Li",
         "review": "Gives plenty of resources but expects a lot of self-study.",
         "subject": "Mathematics",
         "stars": 4
       },
       {
-        "professor": "Prof20",
+        "professor": "Dr. Patel Raj",
         "review": "Great at explaining difficult concepts with patience.",
         "subject": "Biochemistry",
         "stars": 5
       },
       {
-        "professor": "Prof21",
+        "professor": "Professor Tanaka Hiroko",
         "review": "Lots of group discussions, but not much lecture.",
         "subject": "Education",
         "stars": 3
       },
       {
-        "professor": "Prof22",
+        "professor": "Professor Singh Amarjeet",
         "review": "Keeps the class engaged with interactive sessions.",
         "subject": "Environmental Science",
         "stars": 5
@@ -139,43 +139,43 @@
         "stars": 4
       },
       {
-        "professor": "Prof24",
+        "professor": "Dr. Ivanov Sergei",
         "review": "Course was too fast-paced for most students.",
         "subject": "Engineering",
         "stars": 3
       },
       {
-        "professor": "Prof25",
+        "professor": "Dr. Gandalf Grey",
         "review": "Very detailed and knowledgeable but expects a lot.",
         "subject": "Medicine",
         "stars": 4
       },
       {
-        "professor": "Prof26",
+        "professor": "Professor Dumbledore",
         "review": "Helpful feedback on assignments, learned a lot.",
         "subject": "English",
         "stars": 5
       },
       {
-        "professor": "Prof27",
+        "professor": "Dr. Sherlock Holmes",
         "review": "Lectures are interesting but tests are very difficult.",
         "subject": "Chemistry",
         "stars": 3
       },
       {
-        "professor": "Prof28",
+        "professor": "Professor Moriarty",
         "review": "Always willing to help students after class.",
         "subject": "Sociology",
         "stars": 5
       },
       {
-        "professor": "Prof29",
+        "professor": "Dr. Frankenstein",
         "review": "Course is very theoretical, not much practical work.",
         "subject": "Physics",
         "stars": 3
       },
       {
-        "professor": "Prof30",
+        "professor": "Professor Jekyll",
         "review": "Engages students with real-world examples.",
         "subject": "Business",
         "stars": 4

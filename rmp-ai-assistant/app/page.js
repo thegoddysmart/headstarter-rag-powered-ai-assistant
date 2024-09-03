@@ -1,6 +1,7 @@
 'use client'
-import { Box, Button, Stack, TextField } from '@mui/material'
-import { useState } from 'react'
+
+import { Box, Button, Stack, TextField, Typography } from '@mui/material';
+import { useState } from 'react';
 
 export default function Home() {
   const [messages, setMessages] = useState([
@@ -56,14 +57,23 @@ export default function Home() {
       flexDirection="column"
       justifyContent="center"
       alignItems="center"
+      sx={{
+        backgroundImage: 'url(/images/bg-2.jpeg)',
+        backgroundSize: 'cover',
+        backgroundPosition: 'center',
+        backgroundRepeat: 'no-repeat',
+      }}
     >
       <Stack
         direction={'column'}
         width="500px"
         height="700px"
-        border="1px solid black"
+        border="1px solid #ddd"
+        borderRadius="8px"
+        boxShadow="0 4px 12px rgba(0, 0, 0, 0.1)"
         p={2}
         spacing={3}
+        bgcolor="white"
       >
         <Stack
           direction={'column'}
@@ -71,6 +81,7 @@ export default function Home() {
           flexGrow={1}
           overflow="auto"
           maxHeight="100%"
+          padding="0 8px"
         >
           {messages.map((message, index) => (
             <Box
@@ -81,6 +92,7 @@ export default function Home() {
               }
             >
               <Box
+                maxWidth="80%"
                 bgcolor={
                   message.role === 'assistant'
                     ? 'primary.main'
@@ -88,9 +100,18 @@ export default function Home() {
                 }
                 color="white"
                 borderRadius={16}
-                p={3}
+                p={2}
+                sx={{ whiteSpace: 'pre-line', wordWrap: 'break-word' }}
               >
-                {message.content}
+                {message.content.split('\n').map((line, i) => (
+                  <Typography
+                    key={i}
+                    variant="body2"
+                    sx={{ marginBottom: i < message.content.split('\n').length - 1 ? 1 : 0 }}
+                  >
+                    {line}
+                  </Typography>
+                ))}
               </Box>
             </Box>
           ))}
